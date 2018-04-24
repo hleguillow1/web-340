@@ -1,8 +1,8 @@
 {
-    "name":  "Putting it all together",
-    "author": "Hector Leguillow",
-    "private": true,
-    "dependencies": {
-      
-    }
+  "name":  "Putting it all together",
+  "author": "Hector Leguillow",
+  "private": true,
+  "dependencies": {
+    
   }
+}

@@ -1,10 +1,8 @@
 {
-  "name": "json api",
+  "name": "if-else-render",
   "author": "Hector Leguillow",
   "private": true,
   "dependencies": {
-    "ejs": "^2.5.9",
-    "express": "^4.16.3",
-    "morgan": "^1.9.0"
+    
   }
 }

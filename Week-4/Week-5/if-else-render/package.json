@@ -4,7 +4,8 @@
     "Private": true,
     "dependencies": {
         "ejs": "^2.5.9",
-        "express": "^4.16.3",
-        "morgan": "^1.9.0"
+        "express": "file:node_modules/express",
+        "morgan": "^1.9.0",
+        "pug": "file:node_modules/pug"
     }
 }
